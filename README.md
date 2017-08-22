@@ -1,7 +1,7 @@
 # run-sequence
 
-###Barquin Note!
-##This was forked so we could use the chalk dependency at version 1.1.1. This specific version is needed because our repos mrr-static and tcb-static are running on an old version of node 0.10.45 and cannot use node libraries that have ES6 syntax. The later versions of chalk and later versions of run-sequence use ES6. 
+### Barquin Note!
+## This was forked so we could use the chalk dependency at version 1.1.1. This specific version is needed because our repos mrr-static and tcb-static are running on an old version of node 0.10.45 and cannot use node libraries that have ES6 syntax. The later versions of chalk and later versions of run-sequence use ES6. 
 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 
